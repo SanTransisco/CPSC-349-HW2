@@ -1,1 +1,1 @@
-# CPSC-349-HW2
+# Ottergram-Complete
